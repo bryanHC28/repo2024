@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>git pull</h1>
-    <p> parrafor prueba</p>
+    <p> Quitamos parrafor de prueba</p>
 </body>
 </html>
