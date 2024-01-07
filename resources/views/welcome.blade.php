@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>git pull</h1>
-    <p> Quitamos parrafor de prueba</p>
+    <h6>Aqui estamos</h6>
+    <p> probango git pull</p>
 </body>
 </html>
