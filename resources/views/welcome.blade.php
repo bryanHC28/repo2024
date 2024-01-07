@@ -12,6 +12,7 @@
     <h1>Bryan</h1>
     <h1>Hilario </h1>
     <h1>Carrasco</h1>
+    <a>link</a>
     <img src="{{ asset('img/download.png') }}" style="width: 30%">
 </body>
 </html>
